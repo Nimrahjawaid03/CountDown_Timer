@@ -11,12 +11,14 @@ This project is a simple countdown timer application built with TypeScript. It a
 
 ## Installation
 ## Prerequisites
+
 🟦 Node.js (v14 or higher)
+
 📦 npm 
 
 ## Steps
  The repository:
-Github link:
+Github link:https://github.com/Nimrahjawaid03/CountDown_Timer.git
 Navigate to the project directory:
 cd countdown-timer
 Install the required packages:
@@ -31,9 +33,13 @@ npm start
 
 ## Contributing
 🍴 Fork the repository
+
 🌿 Create a new branch (git checkout -b feature-foo)
+
 💾 Commit your changes (git commit -am 'Add some foo')
+
 📤 Push to the branch (git push origin feature-foo)
+
 🔄 Create a new Pull Request
 
 ## License
